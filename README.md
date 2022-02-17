@@ -1,7 +1,7 @@
 # Completely Random
 Completely, Adverb: totally; utterly.
 
-Random, Adjective: made, done, happening, or chosen without method or conscious decision.
+Random, Adjective: 1. made, done, happening, or chosen without method or conscious decision. 2. unfamiliar or unspecified.
 
 This will be fun.
 # How to participate.
